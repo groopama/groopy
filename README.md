@@ -1,0 +1,1 @@
+# Groopy - l'application compagnon des enfants diabétiques
